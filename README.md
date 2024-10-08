@@ -9,16 +9,24 @@ I am a cybersecurity proffesional with over 8 years of experience. I have a pass
 My journey in computer science has led me to develop a passion for cybersecurity. I am learning new skills and earning certifications in an endevour to become a Cloud Security-Architect, Information-Security Architect-Ai_Cloud, or Cloud Security-Engineer. My base interest and fascination is with Information Assurance. I have 3 classes left to pass my Bachelors at WGU in information assurance. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+Cyber-Security all around general knowledge
+Fast learner 
+Policy Analysis, editing, and revision
+PKI certificate expertise
+Some Red Hat experience with Certificate Authorities
+Hands on PKI and IAM experience
+Network Hardware reqair
+Server Hardware repair
+Electronic and mechanical register repair
+Fiber Optic maintenence repair
+Coaxail maintenence and repair
+Cat cabling maintenence and repair
+Windows OS troubleshooting and repair
+Linux threat hunting and firewall configuration
+SIEM (Elastic brand) experience
+Ciso Networking experience, 7 years
+
 
 ## Tools
 [I am still filling this out but will Use ChatGPT to help create the link. ]]
@@ -44,7 +52,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide certifications that you have obtained. Use ChatGPT to help create the link ]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
